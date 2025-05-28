@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Guangjin-Homepage/people/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Guangjin-Homepage/cv/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -51,7 +44,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/Guangjin-Homepage/blog/";
               },
-            },{id: "nav-projects",
+            },{id: "nav-cv",
+          title: "cv",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Guangjin-Homepage/cv/";
+          },
+        },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
