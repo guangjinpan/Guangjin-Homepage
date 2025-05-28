@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Guangjin-Homepage.github.io/sitemap.xml
