@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://guangjinpan.github.io//sitemap.xml
+Sitemap: https://guangjinpan.github.io/Guangjin-Homepage/sitemap.xml
