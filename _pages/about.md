@@ -7,7 +7,7 @@ subtitle: <a href='#'> Postdoctoral Researcher | Chalmers University of Technolo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Guangjin_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
