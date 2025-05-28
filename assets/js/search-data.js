@@ -44,14 +44,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/Guangjin-Homepage/blog/";
               },
-            },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Guangjin-Homepage/projects/";
-          },
-        },{id: "nav-blog",
+            },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
