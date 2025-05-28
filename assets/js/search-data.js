@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Guangjin-Homepage/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/Guangjin-Homepage/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/Guangjin-Homepage/blog/";
-              },
-            },{id: "nav-blog",
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
