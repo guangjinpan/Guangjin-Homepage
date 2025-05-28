@@ -391,10 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/Guangjin-Homepage/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-2024-news",
@@ -402,7 +399,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/Guangjin-Homepage/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
