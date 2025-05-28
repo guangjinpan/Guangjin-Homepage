@@ -1,4 +1,6 @@
-<!-----
+<!--
+
+---
 layout: page
 title: projects
 permalink: /projects/
@@ -8,7 +10,7 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 --- 
--->
+
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -64,3 +66,6 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+
+-->
