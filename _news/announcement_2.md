@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024 News
-date: 2024
+date: 2024-12-31 15:59:00 -0400
 inline: false
 related_posts: false
 ---
