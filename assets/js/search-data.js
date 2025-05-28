@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/Guangjin-Homepage/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Guangjin-Homepage/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
@@ -37,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Guangjin-Homepage/people/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Guangjin-Homepage/cv/";
+          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -51,19 +51,19 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/Guangjin-Homepage/blog/";
               },
-            },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Guangjin-Homepage/cv/";
-          },
-        },{id: "nav-projects",
+            },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Guangjin-Homepage/projects/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Guangjin-Homepage/blog/";
           },
         },{id: "post-a-post-with-plotly-js",
         
