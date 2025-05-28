@@ -399,7 +399,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/Guangjin-Homepage/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement",
+            },},{id: "news-2025-04-our-work-is-accepted-by-ieee-internet-of-things-journal-a-unified-qos-aware-multiplexing-framework-for-next-generation-immersive-communication-with-legacy-wireless-applications-2025-04-our-work-is-accepted-by-ieee-transactions-on-vehicular-technology-qoe-prediction-in-ric-assisted-wireless-real-time-video-transmission-system-with-transformer",
+          title: '2025.04:   🎉 Our work is accepted by IEEE Internet of Things Journal:...',
+          description: "",
+          section: "News",},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "projects-project-1",
