@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Demos for some of my works.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/demos/";
           },
         },{id: "nav-repositories",
           title: "repositories",
