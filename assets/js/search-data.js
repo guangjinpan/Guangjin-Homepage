@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-plotly",
         
-          title: "a post with plotly.js",
+          title: "Plotly",
         
-        description: "this is what included plotly.js code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
