@@ -399,7 +399,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-chalmers-area-of-advance-transport-postdoc-project-got-funded-2-000-000-sek",
+            },},{id: "news-our-work-is-accepted-by-ieee-internet-of-things-journal-energy-optimization-of-multi-task-dnn-inference-in-mec-assisted-xr-devices-a-lyapunov-guided-reinforcement-learning-approach",
+          title: '- 🎉 Our work is accepted by IEEE Internet of Things Journal: Energy...',
+          description: "",
+          section: "News",},{id: "news-our-chalmers-area-of-advance-transport-postdoc-project-got-funded-2-000-000-sek",
           title: '🎉 Our Chalmers Area-of-Advance Transport Postdoc Project got funded (2,000,000 SEK).',
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-internet-of-things-journal-a-unified-qos-aware-multiplexing-framework-for-next-generation-immersive-communication-with-legacy-wireless-applications-our-work-is-accepted-by-ieee-transactions-on-vehicular-technology-qoe-prediction-in-ric-assisted-wireless-real-time-video-transmission-system-with-transformer",
