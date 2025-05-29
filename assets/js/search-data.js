@@ -399,11 +399,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-work-is-accepted-by-ieee-internet-of-things-journal-a-unified-qos-aware-multiplexing-framework-for-next-generation-immersive-communication-with-legacy-wireless-applications-our-work-is-accepted-by-ieee-transactions-on-vehicular-technology-qoe-prediction-in-ric-assisted-wireless-real-time-video-transmission-system-with-transformer",
-          title: '🎉 Our work is accepted by IEEE Internet of Things Journal: A Unified...',
+            },},{id: "news-our-chalmers-area-of-advance-transport-postdoc-project-got-funded-2-000-000-sek",
+          title: '🎉 Our Chalmers Area-of-Advance Transport Postdoc Project got funded (2,000,000 SEK).',
           description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+          section: "News",},{id: "news-our-work-is-accepted-by-ieee-internet-of-things-journal-a-unified-qos-aware-multiplexing-framework-for-next-generation-immersive-communication-with-legacy-wireless-applications-our-work-is-accepted-by-ieee-transactions-on-vehicular-technology-qoe-prediction-in-ric-assisted-wireless-real-time-video-transmission-system-with-transformer",
+          title: '🎉 Our work is accepted by IEEE Internet of Things Journal: A Unified...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
