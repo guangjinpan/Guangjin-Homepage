@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-5-31 15:59:00-0400
+date: 2025-3-31 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+-🎉 Our Chalmers Area-of-Advance Transport Postdoc Project got funded (2,000,000 SEK).
