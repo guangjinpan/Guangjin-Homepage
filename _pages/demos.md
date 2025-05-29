@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-**Multimodal Fusion Positioning System, Shanghai University.**
+## Multimodal Fusion Positioning System, Shanghai University.**
 <video width="480" height="240" controls volume="0.5">
   <source src="/assets/video/FusionPositioning.mp4" type="video/mp4">
 </video>
@@ -21,7 +21,7 @@ nav_order: 4
   <img src="/assets/img/OAI-RAN.png" alt="Image" width="675" height="240">
 </div>
 
-- Real-time video transmission optimization based on L4S, Shanghai University.
+## Real-time video transmission optimization based on L4S, Shanghai University.
 <div style="display: flex; gap: 10px;">
   <video width="480" height="240" controls volume="0.5">
   <source src="/assets/video/L4SVideo.mp4" type="video/mp4">
