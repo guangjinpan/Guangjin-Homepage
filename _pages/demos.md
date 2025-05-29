@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-## Multimodal Fusion Positioning System, Shanghai University.**
+## Multimodal Fusion Positioning System, Shanghai University.
 <video width="480" height="240" controls volume="0.5">
   <source src="/assets/video/FusionPositioning.mp4" type="video/mp4">
 </video>
