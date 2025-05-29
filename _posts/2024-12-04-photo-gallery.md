@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with image galleries
+title: Curated paper list for wireless large AI models
 date: 2025-05-31 01:59:00
 description: Curated paper list for wireless large AI models
 tags: formatting images
