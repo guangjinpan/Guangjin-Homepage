@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /demos/
 title: demos
 description: Demos for some of my works.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 
