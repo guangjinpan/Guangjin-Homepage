@@ -4,13 +4,10 @@ title: Curated paper list for wireless large AI models
 date: 2025-05-31 01:59:00
 description: Curated paper list for wireless large AI models
 tags: formatting images
+tags: formatting blockquotes
 categories: sample-posts
-thumbnail: assets/img/9.jpg
-images:
-  lightbox2: true
-  photoswipe: true
-  spotlight: true
-  venobox: true
+giscus_comments: true
+related_posts: true
 ---
 
 # Wireless Large AI Model
