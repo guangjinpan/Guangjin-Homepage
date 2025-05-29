@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-plotly",
-        
-          title: "Plotly",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
@@ -398,9 +387,6 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-our-work-is-accepted-by-ieee-internet-of-things-journal-energy-optimization-of-multi-task-dnn-inference-in-mec-assisted-xr-devices-a-lyapunov-guided-reinforcement-learning-approach",
           title: '🎉 Our work is accepted by IEEE Internet of Things Journal: Energy Optimization...',
-          description: "",
-          section: "News",},{id: "news-our-chalmers-area-of-advance-transport-postdoc-project-got-funded-2-000-000-sek",
-          title: '🎉 Our Chalmers Area-of-Advance Transport Postdoc Project got funded (2,000,000 SEK).',
           description: "",
           section: "News",},{id: "news-our-chalmers-area-of-advance-transport-postdoc-project-got-funded-2-000-000-sek",
           title: '🎉 Our Chalmers Area-of-Advance Transport Postdoc Project got funded (2,000,000 SEK).',
