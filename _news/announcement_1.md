@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
--🎉 Our Chalmers Area-of-Advance Transport Postdoc Project got funded (2,000,000 SEK).
+- 🎉 Our Chalmers Area-of-Advance Transport Postdoc Project got funded (2,000,000 SEK).
