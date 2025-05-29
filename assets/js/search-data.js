@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-paper-list-for-wireless-large-ai-models",
-        
-          title: "Paper list for wireless large AI models",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/tabs/";
-          
-        },
-      },{id: "post-a-post-with-typograms",
+        },{id: "post-a-post-with-typograms",
         
           title: "a post with typograms",
         
@@ -61,6 +50,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+          
+        },
+      },{id: "post-a-post-with-tabs",
+        
+          title: "a post with tabs",
+        
+        description: "this is what included tabs in a post could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/tabs/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
