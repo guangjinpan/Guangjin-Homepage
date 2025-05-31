@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /demos/
+permalink: /cv/
 title: cv
 description: 
 nav: true
