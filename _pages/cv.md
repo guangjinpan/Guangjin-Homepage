@@ -40,11 +40,11 @@ nav_order: 3
 # 📖 Education
 
 - 🎓 **Ph.D.** in Communication and Information Systems, *Shanghai University*, 2019.08–2024.07  
-  *Advisor: Prof. Shugong Xu (IEEE Fellow)*  
+  *Supervisor: Prof. Shugong Xu (IEEE Fellow)*  
 - 🎓 **M.S.** in Information and Communication Engineering, *Shanghai University*, 2018.08–2020.07  
-  *Advisor: Prof. Shugong Xu (IEEE Fellow)*  
+  *Supervisor: Prof. Shugong Xu (IEEE Fellow)*  & Prof. Shunqing Zhang*  
 - 🎓 **B.S.** in Communication Engineering, *Shanghai University*, 2014.08–2018.07  
-  *Advisor: Prof. Shugong Xu (IEEE Fellow)*  
+
 
 ---
 
