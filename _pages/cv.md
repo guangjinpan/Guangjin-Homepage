@@ -29,11 +29,11 @@ nav_order: 3
 # 🎉 Research Projects
 
 - 🧠 **Key Contributor**, *R18 BSs for Real-Time Broadband Communication*, 2022–2025  
-- 🔬 **Participant**, *AI-driven 6G Wireless Intelligent Air Interface*, 2022–2025  
-- 📡 **Key Contributor**, *Data-Driven Wireless Transmission Research*, 2020–2023  
-- 🤖 **Key Contributor**, *Intelligent Applications in Wireless Network Elements – China Mobile*, 2020–2021  
-- 📶 **Participant**, *Next-Gen Wireless Systems via Baseband-RF Joint Optimization*, 2019–2022  
-- 📱 **Participant**, *Development of R15 5G Terminal Test Prototypes*, 2018–2019  
+- 🧠 **Participant**, *AI-driven 6G Wireless Intelligent Air Interface*, 2022–2025  
+- 🧠 **Key Contributor**, *Data-Driven Wireless Transmission Research*, 2020–2023  
+- 🧠 **Key Contributor**, *Intelligent Applications in Wireless Network Elements – China Mobile*, 2020–2021  
+- 🧠 **Participant**, *Next-Gen Wireless Systems via Baseband-RF Joint Optimization*, 2019–2022  
+- 🧠 **Participant**, *Development of R15 5G Terminal Test Prototypes*, 2018–2019  
 
 ---
 
@@ -42,7 +42,7 @@ nav_order: 3
 - 🎓 **Ph.D.** in Communication and Information Systems, *Shanghai University*, 2019.08–2024.07  
   *Supervisor: Prof. Shugong Xu (IEEE Fellow)*  
 - 🎓 **M.S.** in Information and Communication Engineering, *Shanghai University*, 2018.08–2020.07  
-  *Supervisor: Prof. Shugong Xu (IEEE Fellow)*  & Prof. Shunqing Zhang*  
+  *Supervisor: Prof. Shugong Xu (IEEE Fellow)*  & Prof. Shunqing Zhang
 - 🎓 **B.S.** in Communication Engineering, *Shanghai University*, 2014.08–2018.07  
 
 
