@@ -1,11 +1,62 @@
 ---
 layout: post
-title: a post with typograms
-date: 2025-04-29 23:36:10
-description: this is what included typograms code could look like
+title: Some demos for my research.
+date: 2024-07-30 23:36:10
+description: Some demos for my research.
 tags: formatting diagrams
 categories: sample-posts
 typograms: true
 ---
 
-This is an example post with some [typograms](https://github.com/google/typograms/) code.
+<style>
+.demo-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 32px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.demo-title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.demo-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.demo-content video, .demo-content img {
+  border-radius: 8px;
+}
+</style>
+
+<div class="demo-card">
+  <div class="demo-title">💻 Multimodal Fusion Positioning System @ Shanghai University</div>
+  <div class="demo-content">
+    <video width="480" height="270" controls>
+      <source src="/assets/video/FusionPositioning.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
+
+<div class="demo-card">
+  <div class="demo-title">💻 On-demand video bitrate adaptation based on wireless bandwidth prediction @ Shanghai University</div>
+  <div class="demo-content">
+    <video width="480" height="270" controls>
+      <source src="/assets/video/DASHVideo.mp4" type="video/mp4">
+    </video>
+    <img src="/assets/img/OAI-RAN.png" alt="OAI-RAN Image" width="675" height="270">
+  </div>
+</div>
+
+<div class="demo-card">
+  <div class="demo-title">💻 Real-time video transmission optimization based on L4S @ Shanghai University</div>
+  <div class="demo-content">
+    <video width="480" height="270" controls>
+      <source src="/assets/video/L4SVideo.mp4" type="video/mp4">
+    </video>
+    <img src="/assets/img/L4S.jpg" alt="L4S" width="320" height="270">
+    <img src="/assets/img/L4S-GCC.jpg" alt="L4S-GCC" width="285" height="270">
+  </div>
+</div>
