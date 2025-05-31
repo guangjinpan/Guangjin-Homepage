@@ -41,15 +41,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/tabs/";
           
         },
-      },{id: "post-a-post-with-typograms",
+      },{id: "post-some-demos-for-my-research",
         
-          title: "a post with typograms",
+          title: "Some demos for my research.",
         
-        description: "this is what included typograms code could look like",
+        description: "Some demos for my research.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/typograms/";
+            window.location.href = "/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
