@@ -32,7 +32,10 @@ nav_order: 4
 </style>
 
 <div class="demo-card">
-  <div class="demo-title">💻 Multimodal Fusion Positioning System @ Shanghai University</div>
+  <div class="demo-title">
+      💻 Multimodal Fusion Positioning System<br>
+      <small>@ Shanghai University</small>
+  </div>
   <div class="demo-content">
     <video width="480" height="270" controls>
       <source src="/assets/video/FusionPositioning.mp4" type="video/mp4">
@@ -41,7 +44,10 @@ nav_order: 4
 </div>
 
 <div class="demo-card">
-  <div class="demo-title">💻 On-demand video bitrate adaptation based on wireless bandwidth prediction @ Shanghai University</div>
+  <div class="demo-title">
+      💻 On-demand video bitrate adaptation based on wireless bandwidth prediction<br>
+      <small>@ Shanghai University</small>
+  </div>
   <div class="demo-content">
     <video width="480" height="270" controls>
       <source src="/assets/video/DASHVideo.mp4" type="video/mp4">
@@ -51,7 +57,10 @@ nav_order: 4
 </div>
 
 <div class="demo-card">
-  <div class="demo-title">💻 Real-time video transmission optimization based on L4S @ Shanghai University</div>
+  <div class="demo-title">
+      💻  Real-time video transmission optimization based on L4S <br>
+      <small>@ Shanghai University</small>
+  </div>
   <div class="demo-content">
     <video width="480" height="270" controls>
       <source src="/assets/video/L4SVideo.mp4" type="video/mp4">
