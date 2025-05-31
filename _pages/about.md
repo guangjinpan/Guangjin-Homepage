@@ -35,7 +35,12 @@ My research interests include,
 You can find my curated paper list for wireless large AI models here: [Wireless-LAM](https://github.com/guangjinpan/Wireless-Large-Model) (continuously updated).
 
 
-
+<div class="sidebar-map" style="text-align:center; margin-top: 2em;">
+  <script
+    type="text/javascript" id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d=0--LHNojUaMy0lg0zjvozOVZREEjCff0XopOxfMlw-0&cl=ffffff&w=a">
+  </script>
+</div>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
